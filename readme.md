@@ -119,5 +119,5 @@ If you discover a security vulnerability within LAVSMS, please use pull request.
 - Librarian/Acountant user pages
 - Library Resources/Study Materials Upload for Students
 
-### **Contact [CJ INSPIRED]**
-- Phone : +2347068149559
+### **Contact [BAGOMBEKA JOB]**
+- Phone : +256778480981
