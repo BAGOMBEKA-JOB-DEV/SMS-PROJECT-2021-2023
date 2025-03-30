@@ -42,7 +42,7 @@ There are 7 types of user accounts. They include:
 
 ### **Requirements**
 
-Check Laravel 8 Requirements: [Laravel Documentation](https://laravel.com/docs/8.x)
+Check Laravel 11 Requirements: [Laravel Documentation](https://laravel.com/docs/11.x)
 
 ---
 
